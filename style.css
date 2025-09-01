@@ -1,0 +1,37 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+}
+
+.ARAF {
+  background-color: #222;
+  width: 105px;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.light {
+  width: 90px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #bbb;
+}
+
+
+button {
+  padding: 10px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #ddd;
+
+}
+
+
